@@ -1,0 +1,9 @@
+paths:
+  /:
+    get:
+      tags:
+        - WELCOME TEXT
+      produces:
+        - application/json
+          
+
